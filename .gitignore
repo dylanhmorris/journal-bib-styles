@@ -178,3 +178,10 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
+
+# macOS
+.DS_Store
+
+# emacs temp files
+*#
+*~
